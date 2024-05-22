@@ -1,0 +1,65 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "platformer-level-1.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "Ground-platform1.tmx": {
+            "expandedObjectLayers": [
+                2,
+                6,
+                5,
+                4
+            ],
+            "scale": 1.45,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 2231.379310344828,
+                "y": 218.9655172413793
+            }
+        },
+        "Ground-platform1.tmx#kenny_tilemap_packed": {
+            "scaleInDock": 2,
+            "scaleInEditor": 3
+        },
+        "platformer-level-1.tmx": {
+            "scale": 1.12,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 132.58928571428572,
+                "y": 264.7321428571428
+            }
+        },
+        "platformer-level-1.tmx#kenny_tilemap_packed": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "/Users/gracelilanhermangmail.com/Desktop/Spring 2024/CMPM 120/Platform project/assets",
+    "last.imagePath": "/Users/gracelilanhermangmail.com/Desktop/Spring 2024/CMPM 120/Platform project/assets",
+    "map.height": 25,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 18,
+    "map.tileWidth": 18,
+    "map.width": 140,
+    "openFiles": [
+        "Ground-platform1.tmx",
+        "platformer-level-1.tmx"
+    ],
+    "project": "Mad Dash.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "Ground-platform1.tmx",
+        "platformer-level-1.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 18,
+        "width": 18
+    }
+}
